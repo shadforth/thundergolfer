@@ -9,4 +9,4 @@ I'm bullish on, and a big booster of:
 
 ---
 
-✊🏾 Black lives matter. Tech is political.
+✊🏾 Black lives matter. (Software is political)
