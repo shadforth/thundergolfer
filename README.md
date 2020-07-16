@@ -1,7 +1,5 @@
 
-> Computing is pop culture. [...] Pop culture holds a disdain for history. Pop culture is all about identity and feeling like you're participating, It has nothing to do with cooperation, the past of the future—it's lvigin in the present. I think the same is true of most people who write code for month. They have no idea wehre [their culture came from]. - _Alan Kay_
 
------
  
 ### Hi there 👋, thanks for stopping by
 
@@ -13,5 +11,9 @@ I'm bullish on, and a big booster of:
 * [Effective Altruism](https://www.stitcher.com/podcast/vox/the-ezra-klein-show/e/65717914). Helping, not harming. Doing, not having. Building, not consuming.
 
 ---
+
+> Computing is pop culture. [...] Pop culture holds a disdain for history. Pop culture is all about identity and feeling like you're participating, It has nothing to do with cooperation, the past of the future—it's lvigin in the present. I think the same is true of most people who write code for month. They have no idea wehre [their culture came from]. - _Alan Kay_
+
+-----
 
 ✊🏾 Black lives matter. (Software is political)
