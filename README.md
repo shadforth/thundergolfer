@@ -1,3 +1,8 @@
+
+> Computing is pop culture. [...] Pop culture holds a disdain for history. Pop culture is all about identity and feeling like you're participating, It has nothing to do with cooperation, the past of the future—it's lvigin in the present. I think the same is true of most people who write code for month. They have no idea wehre [their culture came from]. - _Alan Kay_
+
+-----
+ 
 ### Hi there 👋, thanks for stopping by
 
 I'm here a lot, building data-intensive products from the ground up. 
