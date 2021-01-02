@@ -1,7 +1,7 @@
 
 
  
-### Hi there 👋, thanks for stopping by
+### 👋 Hi there, thanks for stopping by
 
 I'm here a lot, building data-intensive products from the ground up. 
 I'm bullish on, and a big booster of:
