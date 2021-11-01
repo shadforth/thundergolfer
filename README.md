@@ -15,6 +15,7 @@ I'm bullish on, and a big booster of:
 > ⚠️ I am currently quite busy at work so my active projects are getting a bit neglected. My apologies to all who use my open-source projects. I will be back.
 
 * Growing Python in the Bazel ecosystem. See various projects in my pins. I currently do maintenance duty for [bazelbuild/**rules_python**](https://github.com/bazelbuild/rules_python).
+* Writing about software. I semi-regularly publish a post at [thundergolfer.com/blog](https://thundergolfer.com/blog).
 * **[search.rememex.org](https://search.rememex.org/)** - Full-text search over podcasts. Currently MVP and just supporting _The Ezra Klein Show_. 
 * **[whitelist.sh](https://whitelist.sh/)** - A goal-oriented, calendar aware content feed that I would have wanted to use during my undergrad. 👷🏻‍♂️ _WIP_
 
