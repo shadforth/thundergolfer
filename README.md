@@ -14,8 +14,11 @@ I'm bullish on, and a big booster of:
 
 > ⚠️ I am currently quite busy at work so my active projects are getting a bit neglected. My apologies to all who use my open-source projects. I will be back.
 
+* Writing about software. I semi-regularly publish a post at [thundergolfer.com/blog](https://thundergolfer.com/blog). A few are...
+   * [_From Data Engineer to SysAdmin: Put down the K8s cluster, your pipelines can run without it_](https://thundergolfer.com/kubernetes/infrastructure/data-engineering/2021/11/04/from-data-eng-to-sys-admin-put-down-k8s/)
+   * [_What's in a name? The Data Scientist vs. Machine Learning Engineer title bore._](https://thundergolfer.com/machine-learning/communication/career/2021/10/30/the-ds-vs-mle-title-bore/)
+   * [_A Basic Python Toolchain in Bazel_](https://thundergolfer.com/bazel/python/2021/06/25/a-basic-python-bazel-toolchain/)
 * Growing Python in the Bazel ecosystem. See various projects in my pins. I currently do maintenance duty for [bazelbuild/**rules_python**](https://github.com/bazelbuild/rules_python).
-* Writing about software. I semi-regularly publish a post at [thundergolfer.com/blog](https://thundergolfer.com/blog).
 * **[search.rememex.org](https://search.rememex.org/)** - Full-text search over podcasts. Currently MVP and just supporting _The Ezra Klein Show_. 
 * **[whitelist.sh](https://whitelist.sh/)** - A goal-oriented, calendar aware content feed that I would have wanted to use during my undergrad. 👷🏻‍♂️ _WIP_
 
