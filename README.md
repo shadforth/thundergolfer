@@ -12,8 +12,6 @@ I'm bullish on, and a big booster of:
 
 #### Active Projects
 
-> ⚠️ I am currently quite busy at work so my active projects are getting a bit neglected. My apologies to all who use my open-source projects. I will be back.
-
 * Writing about software. I semi-regularly publish a post at [thundergolfer.com/blog](https://thundergolfer.com/blog). A few are...
    * [_From Data Engineer to SysAdmin: Put down the K8s cluster, your pipelines can run without it_](https://thundergolfer.com/kubernetes/infrastructure/data-engineering/2021/11/04/from-data-eng-to-sys-admin-put-down-k8s/)
    * [_What's in a name? The Data Scientist vs. Machine Learning Engineer title bore._](https://thundergolfer.com/machine-learning/communication/career/2021/10/30/the-ds-vs-mle-title-bore/)
