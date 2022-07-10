@@ -19,7 +19,7 @@ I'm bullish on, and a big booster of:
 * Growing Python in the Bazel ecosystem. See various projects in my pins. I currently do maintenance duty for [bazelbuild/**rules_python**](https://github.com/bazelbuild/rules_python).
 * **[search.rememex.org](https://search.rememex.org/)** - Full-text search over podcasts. Currently MVP and just supporting _The Ezra Klein Show_. 
 * **[whitelist.sh](https://whitelist.sh/)** - A goal-oriented, calendar aware content feed that I would have wanted to use during my undergrad. 👷🏻‍♂️ _WIP_
-* **[ddiaflashcards.com]()** - Building a study deck for a much loved software textbook. A small digital product, available for 🥜 $$.
+* **[ddiaflashcards.com](ddiaflashcards.com)** - Building a study deck for a much loved software textbook. A small digital product, available for 🥜 $$.
 ---
 
 > Computing is pop culture. [...] Pop culture holds a disdain for history. Pop culture is all about identity and feeling like you're participating, It has nothing to do with cooperation, the past or the future—it's living in the present. I think the same is true of most people who write code for money. They have no idea where [their culture came from]. - _Alan Kay_
