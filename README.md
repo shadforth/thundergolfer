@@ -18,12 +18,12 @@ I'm bullish on, and a big booster of:
    * [_The first 99,999 writes are free: Or, why lazy StringIO.write() may sprint into a memmove wall_](https://thundergolfer.com/performance/profiling/2022/08/05/stringio-bytes-written-per-second/)
    * [_What's in a name? The Data Scientist vs. Machine Learning Engineer title bore._](https://thundergolfer.com/machine-learning/communication/career/2021/10/30/the-ds-vs-mle-title-bore/)
    * [_A Basic Python Toolchain in Bazel_](https://thundergolfer.com/bazel/python/2021/06/25/a-basic-python-bazel-toolchain/)
-* **[whitelist.sh](https://whitelist.sh/)** - A goal-oriented, calendar aware content feed that I would have wanted to use during my undergrad. 👷🏻‍♂️ _WIP_
 * **[ddiaflashcards.com](ddiaflashcards.com)** - Building a study deck for a much loved software textbook. A small digital product, available for 🥜 $$.
 
 #### Past Projects
 
 * Growing Python in the Bazel ecosystem. See various projects in my pins. I previously did maintenance duty for [bazelbuild/**rules_python**](https://github.com/bazelbuild/rules_python). Unfortunately, I no longer have time to dedicate to the ecosystem.
+* * **[whitelist.sh](https://whitelist.sh/)** - A goal-oriented, calendar aware content feed that I would have wanted to use during my undergrad. 👷🏻‍♂️
 
 ---
 
